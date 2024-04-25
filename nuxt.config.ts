@@ -13,7 +13,5 @@ export default defineNuxtConfig({
       measurementId: "G-926F3LQM35",
     },
   },
-  routeRules: {
-    "/*": { isr: true },
-  },
+
 });
